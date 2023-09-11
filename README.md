@@ -15,7 +15,7 @@ My name is
 
 **I am a Full Systems Development Analyst with experience in various technologies and frameworks. Below is a summary of my professional experiences and main skills:**
 
-#### BRQ Digital Solutions (Jan 2022 - the moment):
+#### BRQ Digital Solutions (Jan 2022 - Aug 2023):
 
 Full time in São Paulo, Brazil (remote).
 Systems development on three platforms: two with Angular 10 - 12, BEM standard SCSS and one with Django Web on the frontend.
